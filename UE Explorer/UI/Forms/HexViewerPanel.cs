@@ -6,7 +6,7 @@ namespace UEExplorer.UI.Forms
     {
         public HexViewerPanel()
         {
-            InitializeComponent();
+            //InitializeComponent();
             
             SetStyle( ControlStyles.UserPaint, true );
             SetStyle( ControlStyles.AllPaintingInWmPaint, true );
